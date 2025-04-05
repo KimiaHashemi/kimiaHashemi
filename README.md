@@ -1,7 +1,7 @@
 # Kimia Hashemi
 
 ## AI Engineer & Neuroscience Researcher
-University of Padova | Charité - Universitätsmedizin Berlin (Alumni)
+University of Padova | Charité - Universitätsmedizin Berlin 
   
 
 
