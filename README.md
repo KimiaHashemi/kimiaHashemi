@@ -2,10 +2,9 @@
 
 ## AI Engineer & Neuroscience Researcher
 University of Padova | Charité - Universitätsmedizin Berlin (Alumni)
+  
 
-📧 Verified email at studenti.unipd.it  
-🔗 [LinkedIn](https://www.linkedin.com/in/kimia-hashemi-47a2851a4/)  
-🔗 [GitHub](https://github.com/KimiaHashemi)
+
 
 ## Professional Profile
 AI engineer and researcher specializing in machine learning applications for neuroscience with expertise in signal processing and neural networks. Skilled in developing AI frameworks for neurological applications with a focus on EEG signal analysis and classification. Experienced in ROS2 implementation for robotics applications and real-time data processing systems. Published researcher with demonstrated impact in applying AI techniques to enhance brain stimulation protocols and working memory performance.
@@ -41,7 +40,7 @@ AI engineer and researcher specializing in machine learning applications for neu
 * **Working memory enhancement using real-time phase-tuned transcranial alternating current stimulation** (2024)  
   D Haslacher, A Cavallo, P Reber, A Kattein, M Thiele, K Nasr, K Hashemi, et al.  
   *Brain Stimulation 17 (4), 850-859*  
-  Cited by: 4  
+  
   [View Publication](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ariUwlAAAAAJ&citation_for_view=ariUwlAAAAAJ:u5HHmVD_uO8C)
 
 ## Education
@@ -51,9 +50,19 @@ AI engineer and researcher specializing in machine learning applications for neu
 * **Charité - Universitätsmedizin Berlin**  
   Master's Thesis Research on AI applications for real-time tACS
 
-## Impact Metrics
-* H-index: 1
-* Citations: 4 (All since 2020)
+## Current Focus
+Advanced computer vision data analysis and POC development through active participation in several European-funded research projects. Integrating business intelligence solutions with AI/ML pipelines for comprehensive data-driven decision making.
+  
+## Certifications
+* CAMP (Certified Associate in Project Management)
+* Microsoft Certified: Power BI Data Analyst Associate
+* Generative AI – Google/Microsoft
+* Machine Learning and Data Science
+* Business Intelligence Analyst – Udemy
+
+## Contact
+🔗 [LinkedIn](https://www.linkedin.com/in/kimia-hashemi-47a2851a4/)  
+📧 kimia.hashemi1992@gmail.com
 
 ## Languages
 * English (Professional)
