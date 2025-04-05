@@ -1,7 +1,8 @@
 # Kimia Hashemi
 
 ## AI Engineer & Neuroscience Researcher
-University of Padova | Charité - Universitätsmedizin Berlin 
+Data Science & AI/ML Expert | Project Manager | Data Analyst & Business Intelligence Developer
+Contributor to European-Funded Research Projects
   
 
 
