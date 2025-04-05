@@ -67,5 +67,5 @@ Advanced computer vision data analysis and POC development through active partic
 
 ## Languages
 * English (Professional)
-* Italian (Professional - University of Padova)
+* Italian (Intermediate)
 * Persian (Native)
